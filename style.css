@@ -1,0 +1,25 @@
+.box{
+    border: 5px;
+    background-color: rgb(241, 190, 242);
+    color: black;
+    padding: 14px;
+    margin: 20px;
+    }
+    
+    .container1{
+    display: flex;
+    border:darkgreen double 4px;
+    width: 300px;
+    justify-content: space-around;
+    flex-direction: row;
+    }
+     
+    .container2{
+    align-content: baseline;
+    align-items: center;
+    display: flex;
+    border:darkgoldenrod double 4px;
+    border-radius: 15px;
+    width: 300px
+    
+    }
